@@ -56,7 +56,7 @@ function loadWidget(waifuPath, apiPath) {
 			Live2D.captureFrame = true;
 		});
 		$("#waifu-tool .fa-info-circle").click(function() {
-			open("https://github.com/stevenjoezhang/live2d-widget");
+			open("https://github.com/wolfdan666/live2d-widget");
 		});
 		$("#waifu-tool .fa-times").click(function() {
 			localStorage.setItem("waifu-display", new Date().getTime());
