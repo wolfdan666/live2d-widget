@@ -8,7 +8,7 @@ Add Live2D widget to web page.
 **WARNING: DO NOT SUPPORT IE.**
 
 ## 示例 Demo
-在[米米的博客](https://zhangshuqiao.org)的左下角可查看效果。需要使用支持WebGL的现代浏览器浏览。
+在[wolfdan的博客](https://wolfdan.cn)的左下角可查看效果。需要使用支持WebGL的现代浏览器浏览。
 
 ![](assets/screenshot-1.png)
 ![](assets/screenshot-2.png)
